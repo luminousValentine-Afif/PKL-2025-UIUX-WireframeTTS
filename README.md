@@ -23,9 +23,9 @@ Game edukasi mobile bergenre *word puzzle* (susun kata) yang dirancang untuk mem
 ## 📸 Pratinjau Desain
 *(Berikut adalah tangkapan layar dari hasil perancangan UI/UX)*
 
-![Menu Utama](nama-file-gambar-1.png)
-![Gameplay Level](nama-file-gambar-2.png)
-![Fitur Kamus](nama-file-gambar-3.png)
+![Menu Utama](beranda.png)
+![Gameplay Level](ingame.png)
+![Fitur Kamus](kamusberi.png)
 
 *(Catatan: Sesuaikan nama file gambar dalam kurung dengan file gambar yang Anda unggah ke repositori ini)*
 
